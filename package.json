@@ -1,0 +1,29 @@
+{
+  "name": "ethers-vanity-address",
+  "version": "1.0.0",
+  "description": "Quick script to make vanity addresses for Ethereum using Ethers.js",
+  "main": "vanity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesbachini/Ethers-Vanity-Address.git"
+  },
+  "keywords": [
+    "ethers",
+    "ethereum",
+    "vanity",
+    "address"
+  ],
+  "author": "James Bachini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesbachini/Ethers-Vanity-Address/issues"
+  },
+  "homepage": "https://github.com/jamesbachini/Ethers-Vanity-Address#readme",
+  "dependencies": {
+    "ethers": "^5.5.3"
+  }
+}
