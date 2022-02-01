@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jamesbachini/Ethers-Vanity-Address#readme",
   "dependencies": {
+    "@ethersproject/experimental": "^5.5.0",
     "ethers": "^5.5.3"
   }
 }
